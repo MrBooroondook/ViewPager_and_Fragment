@@ -1,0 +1,2 @@
+rootProject.name='ViewPager_and_Fragment'
+include ':app'
